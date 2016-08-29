@@ -1,0 +1,9 @@
+An older woman suffering from type II diabetes injects insulin based on measurements of her blood sugar level. If the blood sugar level is less than 115, she doesn't need to inject any insulin at all. For a value of 115, she injects 1 unit of insulin. For every additional increase of 20 in her blood sugar level, she gets one additional unit of insulin. (Thus, for a blood-sugar level of 134, she gets 1 unit; for a blood-sugar level of 135, she gets 2 units.)
+
+How much insulin does she need to inject for a blood sugar level of 140? 180?
+
+Make a table that shows the number of units of insulin injected for blood sugar values of 100, 110, 120, ..., 200.
+
+Create a formula for calculating the insulin injections.
+
+Use the formula to determine how many units of insulin the woman needs to inject for a blood sugar level of 290.
