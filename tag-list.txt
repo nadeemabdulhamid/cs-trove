@@ -1,0 +1,48 @@
+
+Every exercise should have at least one of these:
+
+htdp/atomic
+  Every htdp/atomic exercise may also have one of these tags too:
+      number
+      string
+      boolean
+      conditional
+      image
+
+
+htdp/structure-simple
+htdp/structure-nested
+htdp/structure-mixed    (this is for itemizations that are comprised of structures)
+htdp/itemization        (this is for other (non-structure) types of itemizations)
+htdp/intervals          (for data that is a bunch of possible intervals)
+htdp/list-simple        (for simple lists of atomic data)
+htdp/list-structure     (involving lists of structures)
+htdp/list               (involving more complex lists of things - e.g. lists of lists, etc.)
+htdp/self-referential   (other types of self-referential data, e.g. natural numbers)
+htdp/tree
+htdp/graph
+htdp/generative-recursion
+htdp/accumulator
+
+htdp/abstraction
+htdp/higher-order-func
+
+mutually-referential
+multiple-simultaneous-complex   (for functions that work on two or more complex types of inputs, e.g. two lists or a list and a tree)
+vector
+
+These are if an exercise uses some particular teachpacks (i.e. libraries)
+htdp/batch-io
+htdp/world      (for regular animations/interactive programs)
+htdp/universe   (this is for fully networked client/server programs)
+
+These tags are related to the domain (i.e. subject matter or topic) of an exercise:
+
+math
+education
+physics
+biology
+science
+money
+data
+
