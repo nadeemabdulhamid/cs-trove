@@ -8,8 +8,6 @@ htdp/atomic
       boolean
       conditional
       image
-
-
 htdp/structure-simple
 htdp/structure-nested
 htdp/structure-mixed    (this is for itemizations that are comprised of structures)
