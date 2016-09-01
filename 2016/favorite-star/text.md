@@ -1,0 +1,1 @@
+Design `favorite-star`. Given the *side-length of a pentagon*, the color of the star, and a length sq-len, it places an appropriately sized and colored star in the middle of a square of the given length sq-len.
