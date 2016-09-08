@@ -1,1 +1,1 @@
-htdp/atomic
+htdp/atomic, number, image, math
