@@ -1,0 +1,3 @@
+A movie store sells two kinds of movies: `regular` and `classic`. For `regular` movies, they track *the product id (a string, such as "234-87-1DX")*, *its base price*, and *the number of years it has been in their collection*. For each year a movie is in stock, it is marked down by 3.5% of the base price, but no movie is sold for less than $2. For `classic` movies, the store tracks the *product id (again, represented as a string)*, and *its price, which is never discounted*.
+
+Design a **data representation** for the store’s items and a **function** that computes the current price of an item. (Think of the program in a cash register and how it computes the current price from the price tag.)
