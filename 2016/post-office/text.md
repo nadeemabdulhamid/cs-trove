@@ -11,10 +11,10 @@ Here are the tasks before you:
 
 1. Design a data definition, `Item`, to represent one item of mail.
 
-2. Design a function, item-ok?, to determine if a piece of mail satisfies the rules.
+2. Design a function, `item-ok?`, to determine if a piece of mail satisfies the rules.
 
-3. Design a data definition, LOI, for a list of items.
+3. Design a data definition, `LOI`, for a list of items.
 
-4. Design a function, bad-items, that takes a collection of mail (represented as an LOI), and returns all the items that don’t satisfy the rules.
+4. Design a function, `bad-items`, that takes a collection of mail (represented as an LOI), and returns all the items that don’t satisfy the rules.
 
-5. Design a function, total-postage, that produces the total postage for a collection of mail.
+5. Design a function, `total-postage`, that produces the total postage for a collection of mail.
