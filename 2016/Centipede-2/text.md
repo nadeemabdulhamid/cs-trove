@@ -1,5 +1,7 @@
 ##Centipede! (Full Version)
 
+**Be sure to change your language level from BSL to BSL+List: in the lower left corner, click on "Beginnger Student", then select "Choose Langauge", and then click on "BSL + List Abbreviations" in the window that pops up, and click "OK".**
+
 Start with your code from last week, and add in mushrooms and split centipedes.
 
 >In the game Centipede, a long centipede starts at the top of the screen and zig-zags its way down to the bottom, attempting to eat the player, before making its way back to top to start all over again if both it and the player survives that long. When a centipede hits an obstacle, which is either a wall or a mushroom, it moves down (or up) a level and reverses its direction (except for obstacle avoiding, a centipede only ever moves left or right).
