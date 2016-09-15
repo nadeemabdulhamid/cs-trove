@@ -1,5 +1,7 @@
 ##Centipede! (Part 1)
 
+**Be sure to change your language level from BSL to BSL+List: in the lower left corner, click on "Beginner Student", then select "Choose Language", and then click on "BSL + List Abbreviations" in the window that pops up, and click "OK".**
+
 For this assignment, you will build a simplified version of Centipede with the following changes:
 
 -No mushrooms
