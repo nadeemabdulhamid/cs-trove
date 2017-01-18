@@ -1,1 +1,1 @@
-htdp/atomic, string, number, htdp/structure-simple
+htdp/structure-simple, string
